@@ -1,1 +1,1 @@
-# hacettepe-cs-machine-learning-assignments
+These are the assignments that I completed during my sixth semester in Hacettepe CS, in the BBM406 class's lab. BBM406 is a machine learning course. You can find the assignment PDFs in the project folders for a full understanding. Project files are in src folders.
